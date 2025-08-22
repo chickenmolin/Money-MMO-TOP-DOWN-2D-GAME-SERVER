@@ -1,0 +1,6 @@
+{
+    "watch": ["server.js", "routes", "config"],
+    "ignore": ["*.log", "node_modules", "mariadb_data"],
+    "ext": "js,json"
+  }
+  
